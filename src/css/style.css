@@ -1,0 +1,367 @@
+body{
+	font-family: arial, sans-setif;
+}
+nav{
+	width: 100%;
+	height: 60px;
+	background: #249a53;
+}
+.logo{
+	font-size: 30px;
+	color: #fff;
+	float: left;
+	line-height: 60px;
+	padding-left: 200px;
+	} 
+.menu{
+	padding-left: 388px;
+	float: left;
+}
+.menu li{
+	font-size: 16px;
+	float: left;
+	line-height: 60px;
+	text-transform: uppercase;
+	color: #fff;
+	margin-right: 15px;
+}
+.main{
+	width: 100%;
+    height: calc(100% - 60px);
+	background: url("../img/zemlya.png")90% 100%/auto 85% no-repeat, url("../img/fon-priroda30.jpg") no-repeat;
+	box-shadow: 0px -12px 18px -10px rgba(34, 60, 80, 0.26) inset;
+}
+.title_container{
+	float: left;
+	margin: 255px 0px 0px 350px;
+	color: #000;
+	text-align: center;
+}
+.title_container h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.title_container h4{
+	font-size: 18px;
+	margin-top: 22px;
+}
+.title_container input{
+	font-size: 15px;
+	height: 30px;
+	text-align: center;
+	margin-top: 15px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	background: none;
+	color: #000;
+	padding: 0px 8px;
+}
+.myself{
+	height: 450px;
+}
+.myself h2{
+	text-align: center;
+	margin-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.myself p{
+	margin-top: 300px;
+	text-align: center;
+}
+.myself input{
+	margin-top: 45px;
+	margin-left: 46%;
+	border: 2px solid #000;
+	border-radius: 5px;
+	background: none;
+	color: #000;
+	padding: 0px 8px;
+	font-size: 15px;
+}
+.s_picture{
+width: 100%;
+    height: 300px;
+	background: url("../img/мал.фото.jpg")50% 130px/auto 50% no-repeat;
+	border-radius: 100%;
+}
+.skills{
+	width: 100%;
+	height: 550px;
+	background-color: rgba(90, 195, 69, 0.3);
+}
+.skills h2{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.design{
+	width: 320px;
+	margin-left: 50px;
+	float: left;
+}
+.design img{
+	margin-top: 100px;
+	margin-left: 120px;
+}
+.design p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.development{
+	margin-left: 70px;
+	width: 320px;
+	float: left;
+}
+.development img{
+	margin-top: 100px;
+	margin-left: 120px;
+}
+.development p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 5px;
+	float: left;
+
+}
+.optimisation{
+margin-left: 30px;
+	width: 320px;
+	float: left;
+}
+.optimisation img{
+	margin-top: 100px;
+	margin-left: 120px;	
+}
+.optimisation p{
+text-align: center;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.marketing{
+margin-left: 60px;
+	width: 320px;
+
+	float: left;
+}
+.marketing img{
+margin-top: 100px;
+	margin-left: 120px;	
+}
+.marketing p{
+text-align: center;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.case h2{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.case <p{
+text-align: center;
+font-size: 15px;
+padding-top: 30px;
+}
+.case img{
+	margin-left: calc(50% - 210px);
+}
+.worth h2{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+}
+.worth h4{
+	text-indent: 200px;
+	padding-top: 60px;
+	font-size: 20px;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+}
+.worth select{
+	margin-left: 200px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	background: none;
+	color: #000;
+	padding: 0px 1100px 10px 5px;
+	font-size: 15px;
+}
+.worth p{
+	text-indent: 200px;
+	margin-top: 20px;
+	font-size: 17px;
+}
+.worth input{
+		margin-top: 45px;
+	margin-left: 46%;
+	border: 2px solid #000;
+	border-radius: 5px;
+	background: none;
+	color: #000;
+	padding: 0px 8px;
+	font-size: 15px;
+}
+.stats{
+		width: 100%;
+	height: 550px;
+	background-color: rgba(90, 195, 69, 0.3);
+}
+.stats h2{
+		text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.clients{
+	width: 320px;
+	margin-left: 50px;
+	float: left;
+}
+.clients img{
+	margin-top: 100px;
+	margin-left: 120px;
+}
+.clients p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 15px;
+}
+.hours{
+	width: 380px;
+	margin-left: 30px;
+	float: left;
+}
+.hours img{
+	margin-top: 100px;
+	margin-left: 145px;
+}
+.hours p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 15px;
+}
+.projects{
+	width: 290px;
+	margin-left: 30px;
+	float: left;
+}
+.projects img{
+	margin-top: 100px;
+	margin-left: 115px;
+}
+.projects p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 15px;
+}
+.feathers{
+	width: 360px;
+	margin-left: 30px;
+	float: left;
+}
+.feathers img{
+	margin-top: 100px;
+	margin-left: 140px;
+}
+.feathers p{
+	text-align: center;
+	font-size: 15px;
+	margin-top: 15px;
+}
+.how_is{
+	width: 100%
+	height: 600px;
+
+}
+.how_is h2{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.how_is img{
+	width: 5%;
+	height: 5%;
+	margin-left: 725px;
+	margin-top: 70px;
+}
+.how_is p{
+	text-align: center;
+	margin-top: 30px;
+	font-size: 15px;
+	line-height: 30px;
+}
+.contacts{
+background-color: rgba(90, 195, 69, 0.3)
+}
+.contacts h2{
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.picture{
+	width: 600px;
+	float: left;
+	margin-left: 30px;
+	;
+}
+.picture img{
+margin-left: 500px;
+margin-top: 100px;
+}
+.picture p{
+float: left;
+font-size: 15px;
+margin-left: 450px;
+margin-top: 20px; 
+}
+.picture1{
+	float: left;
+	width: 200px;
+	float: left;
+}
+.picture1 img{
+margin-top: 100px;
+margin-left: 80px;
+}
+
+.picture1 p{
+	float: left;
+font-size: 15px;
+margin-top: 30px;
+margin-left: 40px; 
+}
+.picture2{
+	width: 200px;
+float: left;
+}
+.picture2 img{
+	margin-top: 100px;
+margin-left: 80px
+}
+.picture2 p{
+font-size: 15px;
+margin-top: 30px;
+margin-left: 50px; 
+}
+.text input{
+	font-size: 15px;
+	height: 30px;
+	text-align: center;
+	margin-top: 15px;
+	border: 2px solid #000;
+	border-radius: 5px;
+	background: none;
+	color: #000;
+	padding: 0px 8px;
+	margin-left: 550px;
+}
+.text textarea{
+	margin-left: 550px;
+	margin-top: 40px;	
+}
